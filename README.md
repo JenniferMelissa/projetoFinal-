@@ -16,7 +16,7 @@
 6.*Orientação a Objetos* Aplicada ao JavaScript/TyoeScript <br>
 7.Frameworks JavaScript: Angular, React e Vue.js <br>
 8.Linguagem C#: Básico, Intermediário e Avançado <br>
-9.Lingugem C# e Banco de Dados (ADD.NET e Entity Framework) <br>
+9.Lingugem C# e Banco de Dados (ADO.NET e Entity Framework) <br>
 10.Programação RAD (Windowns Forms) com EntityFramework - DataBase First <br>
 11.ASP.NET MVC - Entity Framework - Code First  <br>
 12.ASP.NET Web API - Integração de Sistemas <br>
