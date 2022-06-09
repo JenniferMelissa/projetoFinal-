@@ -13,12 +13,59 @@
 ```
 https://www.w3schools.com/html/default.asp
 ```
-2.CSS -  Linguagem de **Estilização** (cores,fontes,backgound...) <br>
-3.JavaScript - Linguagem de Programação Script (**funcionalidade**) <br>
-4.Git-GitHub - **Versionamento** de Código (clone,pull,push,commit,merge) <br>
-5.*Lógica de Programação* Aplicada ao JavaScript  <br>
-6.*Orientação a Objetos* Aplicada ao JavaScript/TyoeScript <br>
-7.Frameworks JavaScript: Angular, React e Vue.js <br>
+
+>2.CSS -  Linguagem de **Estilização** (cores,fontes,backgound...) <br>
+
+```
+https://www.w3schools.com/css/default.asp
+```
+
+>3.JavaScript - Linguagem de Programação Script (**funcionalidade**) <br>
+
+```
+https://www.w3schools.com/js/default.asp
+```
+>4.Git-GitHub - **Versionamento** de Código (clone,pull,push,commit,merge) <br>
+
+```
+https://docs.microsoft.com/pt-br/learn/modules/introduction-to-github/
+```
+
+>5.*Lógica de Programação* Aplicada ao JavaScript  <br>
+
+**Racha Cuca**
+```
+https://rachacuca.com.br/
+```
+
+**Lógica de Programação EAD Senai**
+```
+https://loja.mundosenai.com.br/senainacional/logica-de-programac-o-1-1-1-1-1
+```
+
+**Kata Dojo**
+```
+https://codingdojo.org/kata/
+```
+
+**Beecrowd**
+```
+https://www.beecrowd.com.br/judge/en/login
+```
+
+**JavaScript**
+```
+https://www.w3schools.com/js/default.asp
+```
+
+
+>6.*Orientação a Objetos* Aplicada ao JavaScript/TyoeScript <br>
+
+```
+
+```
+
+>7.Frameworks JavaScript: Angular, React e Vue.js <br>
 8.Linguagem C#: Básico, Intermediário e Avançado <br>
 9.Lingugem C# e Banco de Dados (ADO.NET e Entity Framework) <br>
 10.Programação RAD (Windowns Forms) com EntityFramework - DataBase First <br>
