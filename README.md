@@ -8,7 +8,7 @@
  **Conteúdo Programático** <br>
  *Lista de Conteúdos*
  
-1.HTML - Linguagem de Marcação de Textos (**estrutura**) <br>
+>1.HTML - Linguagem de Marcação de Textos (**estrutura**) <br>
 
 ```
 https://www.w3schools.com/html/default.asp
