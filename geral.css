@@ -1,14 +1,21 @@
-   /* primeira forma */
+/*Exemplo de CSS Externo*/
 
-   /*estilizando o corpo*/
-   /*Exemplo de CSS Externo*/
-
-   body{
+body{
         background-color: cornsilk
-    }
+}
+
+     /*estilizando o menu*/
+
+ ul{
+     background-color: pink;
+ }
 
 
-    /*estilizando o menu*/
+li{
+     background-color:brown;
+ }
 
- 
 
+ li a{
+     background-color: aqua;
+ }
