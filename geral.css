@@ -1,20 +1,14 @@
    /* primeira forma */
-   <<<<<<< HEAD
 
    /*estilizando o corpo*/
+   /*Exemplo de CSS Externo*/
+
    body{
-        background-color: red;
+        background-color: cornsilk
     }
 
 
     /*estilizando o menu*/
 
-    body {
-        background-color: yellow;
-    }
+ 
 
-    >>>>>>> c992c21c874a4a93a85a45d8826e2f90bfdd18e0
-
-    ul{
-        backgound-yellow;
-    }
