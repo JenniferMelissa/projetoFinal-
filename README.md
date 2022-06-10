@@ -83,3 +83,8 @@ https://www.w3schools.com/js/default.asp
 15.Configuração e Hospedagem na Nuvem <br>
 16.Testes de Software (Unitário) <br>
 17.Documentação UML do Projeto Final <br>
+
+***FERRAMENTA***
+```
+ColorZilla - Conta Gota
+```
