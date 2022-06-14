@@ -4,7 +4,7 @@
     width: 100%;
     height: 120px;
     border: 1px solid green;
-    background-color: #1673be;
+    background-color: #be16a2;
     color: #ffffff;
     text-transform: uppercase;
 }
@@ -51,23 +51,28 @@ ul li a{
  }
 
  ul li a:hover{
-    
-    background-color: white;
+    color: white;
     
  }
 
- #principal{
+ main{
    width:100%;
-   height:500px;
-   border:2px solid red;
+   height: 600px;
+   border:2px solid #be16a2;
 }
 
 #rodape{
-   width:100%;
-   height:50px;
-   border:2px solid red;
+   position: absolute;
+   bottom: 0%;
+   font-size: 12px;
+   right: 50%;
 }
 
 #busca{
    text-align: right;
+}
+
+img{
+   display: block;
+   margin: 0px auto;
 }
