@@ -29,7 +29,7 @@ nav img{
 /*Exemplo de CSS Externo*/
 
 body{
-        background-color: cornsilk;
+        background-color: white;
 }
 
 
@@ -52,7 +52,7 @@ ul li a{
 
  ul li a:hover{
     
-    background-color: coral;
+    background-color: white;
     
  }
 
@@ -68,7 +68,6 @@ ul li a{
    border:2px solid red;
 }
 
-#busa{
-   margin-left: 800px;
+#busca{
    text-align: right;
 }
